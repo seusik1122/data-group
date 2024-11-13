@@ -17,8 +17,8 @@
 
 | 이름     | 역할               | Github 주소   |
 |:--------:|:-------------------:|:-------------:|
-| 김지훈   |        | https://github.com/seusik1122/2024-intro-DA-code      |
-| 이영주   |      | https://github.com/lyj098765/2024-intro-DA-code     |
-| 장세민   |  | https://github.com/semin12350/2024-intro-DA    |
+| 김지훈   |  조장, 계획세우기, pie그래프      | https://github.com/seusik1122/2024-intro-DA-code      |
+| 이영주   |   bar 그래프 작성, 자료수집   | https://github.com/lyj098765/2024-intro-DA-code     |
+| 장세민   |  scatter 그래프 작성, 발표| https://github.com/semin12350/2024-intro-DA    |
 
 </div>
